@@ -1,9 +1,9 @@
-"mappings": [
-    "/content/Pankaj-EDS/:/",
-    "/content/Pankaj-EDS/configuration:/.helix/config.json"
-
-  ],
-  "includes": [
-    "/content/Pankaj-EDS/"
-  ]
+{
+  "mappings": [
+    "/content/Pankaj-EDS/:/",
+    "/content/Pankaj-EDS/configuration:/.helix/config.json"
+  ],
+  "includes": [
+    "/content/Pankaj-EDS/"
+  ]
 }
