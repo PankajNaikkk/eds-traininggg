@@ -1,9 +1,9 @@
 {
   "mappings": [
-    "/content/pankaj-eds/:/",
-    "/content/pankaj-eds/configuration:/.helix/config.json"
+    "/content/eds-traininggg/:/",
+    "/content/eds-traininggg/configuration:/.helix/config.json"
   ],
   "includes": [
-    "/content/pankaj-eds/"
+    "/content/eds-traininggg/"
   ]
 }
